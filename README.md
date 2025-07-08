@@ -4,9 +4,9 @@
 
 - **Company:** CODTECH IT Solutions  
 
-- **Name:** Bowrothu Tarun  
+- **Name:** chintada simhachalam 
 
-- **Intern ID:** :CT04DG100
+- **Intern ID:** :
 
 - **Domain:** Front-End Development  
 
